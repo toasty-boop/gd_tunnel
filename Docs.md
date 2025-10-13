@@ -58,9 +58,7 @@ payload = {
         "secret": "Wmfd2893gb7"
     }
 
-### Make sure you set user agent to an empty string. Otherwise, cloudflare WILL prevent the request from being made.
-
-Also, use the post request type!!
+### Make sure you set user agent to an empty string. Otherwise, cloudflare WILL prevent the request from being made. Also, use the post request type!!
 
 Next, It will give you something like this;
 
@@ -78,10 +76,10 @@ Imagine the request as a weirdly encoded table; Everything before the first ":" 
 
 I won't get into much detail what much means, but all we need is the number 4, since it's the raw encoded level data.
 
-To decode it, You will need to base64 decode the level data, and then zlib decompress it.
+### To fully decode it, You will need to base64 decode the level data, and then zlib decompress it.
 
 After that, it's as simple as just sending the result off to roblox studio.
 
-# Textures
+## Textures
 
 I used Geometry dash's gamesheet images to obtain all of my textures. I should probably upload them.. hm?
