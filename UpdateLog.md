@@ -1,34 +1,13 @@
-# 1.3 is here!
--Added level editor!!! (WIP)
-
--Added level settings in the editor!!
-
--Added delete confirmation!!
+# 1.3.1 is here, with a small update!
 
 -Added level song select!!
 
--Added text popup!!
+-Added change logs button in-game!
 
--Added swipe!!
+-Added popup implementation!
 
--Added free move!!
+-Squashed some bugss!!
 
--Added snap!!
+### I hope you enjoy this update!
 
--Fixed pads and portals's debounce changing weirdly!!
-
--Altered API!
-
--Added wave trail!
-
--Added some extra info to level saves to implement player information!
-
--Fixed green buttons never becoming blue when toggled.
-
--Fixed some issues with the hack detection.
-
--Added party pop ups
-
--Squashed some bugss >:D
-
-I hope you enjoy this update!
+I think I'm going to try and update this game a little less consistent to give big updates. Let me know if that's okay!
