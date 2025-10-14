@@ -10,9 +10,12 @@ Request body is application/json
 ### /download-level
 Downloads a level's raw data
 
-Here's an example of how to use /download-level:
+To use this, you should have a table with "level_id" as a key, with a string. Like this:
+
 {
+  
   "level_id": "string"
+
 }
 
 ### /obtain-levels/{path}
