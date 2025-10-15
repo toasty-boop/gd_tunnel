@@ -16,4 +16,8 @@
 
 -Squashed some bugs!
 
+# 1.3.153
+
+-Fixed level editor UI being misproportionate in certain devices
+
 Anyways, I hope everyone has a beautiful day, and enjoys this rather small update. byee!!
