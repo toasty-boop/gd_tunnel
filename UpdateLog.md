@@ -6,7 +6,7 @@
 
 -Added build swipe feature!
 
--Added delete swiwpe feature!
+-Added delete swipe feature!
 
 -Squashed some bugs!
 
