@@ -10,8 +10,6 @@
 
 # 1.3.152
 
--Made build swipe feature more faster!
-
 -Fixed main levels not showing level completion
 
 -Fixed wave trail often creating error
