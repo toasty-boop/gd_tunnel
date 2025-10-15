@@ -1,4 +1,4 @@
-# 1.3.15 is here, and it's a editor updatee!!
+# 1.3.151 is here, and it's a editor updatee!!
 
 -Added delete button in the top-left!!
 
@@ -8,6 +8,6 @@
 
 -Added delete swiwpe feature!
 
--Squashed some bugs.. i think??
+-Squashed some bugs!
 
 Anyways, I hope everyone has a beautiful day, and enjoys this rather small update. byee!!
