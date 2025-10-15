@@ -1,13 +1,13 @@
-# 1.3.1 is here, with a small update!
+# 1.3.15 is here, and it's a editor updatee!!
 
--Added level song select!!
+-Added delete button in the top-left!!
 
--Added change logs button in-game!
+-Fixed swipe button not showing the selection box properly!
 
--Added popup implementation!
+-Added build swipe feature!
 
--Squashed some bugss!!
+-Added delete swiwpe feature!
 
-### I hope you enjoy this update!
+-Squashed some bugs.. i think??
 
-I think I'm going to try and update this game a little less consistent to give big updates. Let me know if that's okay!
+Anyways, I hope everyone has a beautiful day, and enjoys this rather small update. byee!!
