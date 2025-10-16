@@ -12,6 +12,8 @@ Request body is application/json
 ### /download-level
 Downloads a level's raw data
 
+### POST
+
 To use this, you should have a table with "level_id" as a key, with a string. Like this:
 
 {
@@ -22,6 +24,8 @@ To use this, you should have a table with "level_id" as a key, with a string. Li
 
 ### /obtain-levels/{path}
 Uses GD browser's level search API
+
+### GET
 
 This just redirects you to [API]/obtain-levels/{path} to gdbrowser.com/api/{path}
 Search up its documentation for actual documentation!
