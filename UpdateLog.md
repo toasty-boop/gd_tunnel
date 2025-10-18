@@ -1,23 +1,9 @@
-# 1.3.15 is here, and it's a mostly editor updatee!!
+# 1.3.2 is here!! Heres the changes:
 
--Added delete button in the top-left!!
+-Removed being able to go under 0% in platformer levels
 
--Fixed swipe button not showing the selection box properly!
+-Made some bugfixing updates to breakable blocks.
 
--Added build swipe feature!
+-Changed how battle royale works a bit
 
--Added delete swipe feature!
-
-# 1.3.152
-
--Fixed main levels not showing level completion
-
--Fixed wave trail often creating error
-
--Squashed some bugs!
-
-# 1.3.153
-
--Fixed level editor UI being misproportionate in certain devices
-
-Anyways, I hope everyone has a beautiful day, and enjoys this rather small update. byee!!
+-Squashed some bugss!!
