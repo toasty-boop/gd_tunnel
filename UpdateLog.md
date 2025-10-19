@@ -9,3 +9,5 @@
 -Changed how battle royale works a bit
 
 -Squashed some bugss!!
+
+(oh my goodness my python corrupted LOL)
