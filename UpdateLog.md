@@ -1,13 +1,10 @@
-# 1.3.2 is here!! Heres the changes:
+# 1.3.3 is a really slippery update!.. In a good way!
 
--Added 3 new badges!
+-Added slopes!! (Buggy, but works)
 
--Removed being able to go under 0% in platformer levels!
+-Fixed build mode's swipe feature for building tab!
 
--Made some bugfixing updates to breakable blocks.
+It's not much, but it has some really good gameplay mechanics!
 
--Changed how battle royale works a bit
-
--Squashed some bugss!!
-
-(oh my goodness my python corrupted LOL)
+Due to the slopes being a bit too buggy, and me still not being able to figure out how to flip objects correctly..
+I will not be implementing hexagon force or the later levels. Sorry :P
