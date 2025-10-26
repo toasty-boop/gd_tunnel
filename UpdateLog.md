@@ -20,6 +20,10 @@
 
 -Added some optimization
 
+-Fixed badges giving errors
+
+-Squashed some bugss!!
+
 Andd.. That's all for today! I'm aware that this update was just a very big bug fixing update, but it helps the game look like the real game.
 
 byee!!!
