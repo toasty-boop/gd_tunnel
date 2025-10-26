@@ -2,6 +2,8 @@
 
 ### Very bug-fixing update, although you may use versus and create levels in lite now!
 
+-Fixed start groups!
+
 -Allowing the player to enter the limited create tab during LITE!
 
 -Added map button in the create tab!
