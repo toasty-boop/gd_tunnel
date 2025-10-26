@@ -1,10 +1,25 @@
-# 1.3.3 is a really slippery update!.. In a good way!
+# 1.3.4 is a really GD-ify bug update!
 
--Added slopes!! (Buggy, but works)
+### Very bug-fixing update, although you may use versus and create levels in lite now!
 
--Fixed build mode's swipe feature for building tab!
+-Allowing the player to enter the limited create tab during LITE!
 
-It's not much, but it has some really good gameplay mechanics!
+-Added map button in the create tab!
 
-Due to the slopes being a bit too buggy, and me still not being able to figure out how to flip objects correctly..
-I will not be implementing hexagon force or the later levels. Sorry :P
+-Fixed popup's UI generally!
+
+-Fixed the LITE texture
+
+-Fixed the loading circle's texture
+
+-Made the loading circle based on FPS
+
+-Fixed the searching tab's search buttons looking weird
+
+-Removed some client hacking vunerabilities
+
+-Added some optimization
+
+Andd.. That's all for today! I'm aware that this update was just a very big bug fixing update, but it helps the game look like the real game.
+
+byee!!!
