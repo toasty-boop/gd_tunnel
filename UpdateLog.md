@@ -1,33 +1,21 @@
-# 1.3.4 is a really GD-ify bug update!
+# 1.3.41 is a small update.
 
-### Very bug-fixing update, although you may use versus and create levels in lite now!
+- Added pause menu when playing!!
 
--Fixed start groups!
+- Showing timer in platformer instead of progress bar!
 
--Allowing the player to enter the limited create tab during LITE!
+- Changed the pop-up a bit
 
--Added map button in the create tab!
+- Made the loading screen not flash white at the start for lower end devices
 
--Fixed popup's UI generally!
+- Optimized a few things
 
--Fixed the LITE texture
+- Fixed infinite scrolling in the editor
 
--Fixed the loading circle's texture
+- Made some ROBLOX things invisible
 
--Made the loading circle based on FPS
+- Squashed some bugss!! >:]
 
--Fixed the searching tab's search buttons looking weird
-
--Removed some client hacking vunerabilities
-
--Added some optimization
-
--Fixed badges giving errors
-
--Fixed portals activating more than once
-
--Squashed some bugss!!
-
-Andd.. That's all for today! I'm aware that this update was just a very big bug fixing update, but it helps the game look like the real game.
+Andd.. That's all for today!!!
 
 byee!!!
