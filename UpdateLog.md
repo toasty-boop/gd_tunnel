@@ -1,21 +1,13 @@
-# 1.3.41 is a small update.
+# A very audio-ish update.. 1.3.42!!
 
-- Added pause menu when playing!!
+- Added Schtiffles - ? (or better known as " ")
 
-- Showing timer in platformer instead of progress bar!
+- Replaced some taken down audios by roblox
 
-- Changed the pop-up a bit
+- Added the quit SFX
 
-- Made the loading screen not flash white at the start for lower end devices
+- Squashed some bugs!!!
 
-- Optimized a few things
-
-- Fixed infinite scrolling in the editor
-
-- Made some ROBLOX things invisible
-
-- Squashed some bugss!! >:]
-
-Andd.. That's all for today!!!
+I'm terribly sorry for the past 3 days. I had been gone, and I couldn't turn on the servers for that reason. I'll try my best to make up for it.
 
 byee!!!
