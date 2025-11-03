@@ -8,6 +8,6 @@
 
 - Squashed some bugs!!!
 
-I'm terribly sorry for the past 3 or so days. I had been gone, and I couldn't turn on the servers for that reason. I'll try my best to make up for it.
+I'm terribly sorry for the past 5 or so days. I had been gone, and I couldn't turn on the servers for that reason. I'll try my best to make up for it.
 
 byee!!!
