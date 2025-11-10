@@ -1,13 +1,30 @@
-# A very audio-ish update.. 1.3.42!!
+# Big update; 1.3.5!
 
-- Added Schtiffles - ? (or better known as " ")
+### Changed the physics to resemble the real GD ones! (USED IN-GAME VALUES)!!!
 
-- Replaced some taken down audios by roblox
+- This bugfix will make most online levels possible.
+   
+- Please note that this feature might make old editor levels impossible. Please update them!
+   
+- This bugfix is slightly buggy, and *will* be slightly modified in the future.
 
-- Added the quit SFX
+   
+- If you experience any bugs, let me know.
 
-- Squashed some bugs!!!
+### Added New Best effect!
 
-I'm terribly sorry for the past 5 or so days. I had been gone, and I couldn't turn on the servers for that reason. I'll try my best to make up for it.
+### Started working on the icon selection!
+
+### Fixed a bug where the "Shiny!" Achievement would be given to the player after accepting TOS!
+
+### Added noclip detection!
+
+- I'm thinking of adding noclip to the game, so i've added this detection (in this update) to serve as a base, and to also shoo away hackers.
+
+### Demolished some bugs!! >:]
+
+~
+
+And.. That's all for this update! I know it might be buggy at release, but *please* be patient as I try to fix the bugs.
 
 byee!!!
