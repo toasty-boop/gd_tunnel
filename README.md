@@ -1,4 +1,4 @@
-GD Browser Search is NOT affilated by Geometry dash or Robtop.
+### GD Recreation [BETA] is NOT affilated by Geometry dash or Robtop.
 
 # gd_tunnel
 I have created this repo as a documentation for my [roblox game!](https://www.roblox.com/games/130195943844260)
