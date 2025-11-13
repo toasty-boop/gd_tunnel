@@ -1,4 +1,4 @@
-# A small update; 1.3.51!
+# A small update; 0.3.51!
 
 - Fixed the ufo bouncing really high up when using pads
 
