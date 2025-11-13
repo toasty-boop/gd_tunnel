@@ -1,30 +1,13 @@
-# Big update; 1.3.5!
+# A small update; 1.3.51!
 
-### Changed the physics to resemble the real GD ones! (USED IN-GAME VALUES)!!!
+- Fixed the ufo bouncing really high up when using pads
 
-- This bugfix will make most online levels possible.
-   
-- Please note that this feature might make old editor levels impossible. Please update them!
-   
-- This bugfix is slightly buggy, and *will* be slightly modified in the future.
+- Made the ship feel more better in physics terms
 
-   
-- If you experience any bugs, let me know.
+- Made the new best image slightly smaller
 
-### Added New Best effect!
+- Made the percentage ALWAYS have exactly two decimal points. (Same as platformer time)
 
-### Started working on the icon selection!
+- Fixed a bug where the percentage's text size would flicker.
 
-### Fixed a bug where the "Shiny!" Achievement would be given to the player after accepting TOS!
-
-### Added noclip detection!
-
-- I'm thinking of adding noclip to the game, so i've added this detection (in this update) to serve as a base, and to also shoo away hackers.
-
-### Demolished some bugs!! >:]
-
-~
-
-And.. That's all for this update! I know it might be buggy at release, but *please* be patient as I try to fix the bugs.
-
-byee!!!
+And.. That's all for this update! I know it might be buggy, but please report any of the bugs to me. Thanks!
