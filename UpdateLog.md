@@ -10,4 +10,6 @@
 
 - Fixed a bug where the percentage's text size would flicker.
 
+- Squashed MANY bugs!!!
+
 And.. That's all for this update! I know it might be buggy, but please report any of the bugs to me. Thanks!
