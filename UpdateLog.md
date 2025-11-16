@@ -1,15 +1,17 @@
-# A small update; 0.3.51!
+# 0.3.52 is here!
 
-- Fixed the ufo bouncing really high up when using pads
+- Made loading faster!!
 
-- Made the ship feel more better in physics terms
+- Fixed the loading UI's BG being slightly mis-aligned
 
-- Made the new best image slightly smaller
+- Optimized game
 
-- Made the percentage ALWAYS have exactly two decimal points. (Same as platformer time)
+- Fixed some physics bugs
 
-- Fixed a bug where the percentage's text size would flicker.
+- Removed the static player model in the editor
 
-- Squashed MANY bugs!!!
+- Made the new best effect go faster
 
-And.. That's all for this update! I know it might be buggy, but please report any of the bugs to me. Thanks!
+- Squashed some bugs >:]
+
+I'm trying to find and fix any bugs before the big update. I'll update you guys on that later.
