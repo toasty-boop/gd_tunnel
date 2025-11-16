@@ -3,7 +3,7 @@
 # gd_tunnel
 I have created this repo as a documentation for my [roblox game!](https://www.roblox.com/games/130195943844260)
 
-The API mentioned only works if I have my servers running, which is rarely, and is actually just a free cloudflare thing, cuz i'm broke.
+The API mentioned only works if I have my servers running, which is rarely, and is actually just a free cloudflare tunnel, cuz i'm broke.
 
 ## USAGE
 
