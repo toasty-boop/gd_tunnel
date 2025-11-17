@@ -8,20 +8,7 @@ This file is about things I learnt about GD while I was recreating it in ROBLOX,
 
 # Variables
 
-## Player jumping
-
-### (NOTE THAT THE FOLLOWING INFORMATION IS ONLY IN 1X SPEED)
-
-The player jumps around ~2.35 in jump_height, with 0.43 seconds of air time (0.35 seconds if mini)
-Meaning, the gravity is around ~ (8*(jump_height * 2) / (air_time ^ 2))  AKA, around ~203.35316387236347 is subtracted every second.
-
-To calculate the jump boost, just obtain (gravity * airtime / 2.15), or (-gravity * airtime / 2.15) if the player is inverted in gravity.
-
-### Of course, this information tries to resemble the real game's variables, and isnt actually real. PLEASE tell me if there's another way, though!!
-
 ## Speed
-
-To calculate speeds, I used math to obtain how fast the player goes in each speed portal.
 
 0.5x speed (Or 2nd speed portal in-game) = 16.7364016736 studs per sec (considering player size), or 8.3682008368 gd blocks per sec
 1x speed (Or 1st speed portal in-game) = 20.7522697796 studs per sec (considering player size), or 10.3761348898 gd blocks per sec
@@ -43,6 +30,17 @@ if 1 / delta < 30 then
 	dt = 1 / 30
 end
 
+Variables:
+
+Cube:
+Gravity: 14.4 units per second, or 1.2 units per frame (with 12 FPS)
+
+Ship: 
+
+Gravity: -69.8 units per second, or -5.8 units per frame (with 12 FPS)
+Jump Height: 112 units per second, or 9.33333333333 units per frame (with 12 FPS)
+Max Gravity Speed: -29 units per frame
+Max Jump Speed 36 units per frame
 
 # Downloading and loading.
 
