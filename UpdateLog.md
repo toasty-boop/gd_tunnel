@@ -14,4 +14,7 @@
 
 - Squashed some bugs >:]
 
-I'm trying to find and fix any bugs before the big update. I'll update you guys on that later.
+# NOTES
+
+I'm currently adding the icon kit! I'm sure this update will be a really big update, so please be patient while i finish it.
+### Next update will be marked as v0.4.0 !
