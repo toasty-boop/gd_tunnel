@@ -1,4 +1,4 @@
-# 0.3.99 is here!
+# 0.3.9 is here!
 
 - Updated the physics to match the GD physics more
 
