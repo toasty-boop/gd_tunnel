@@ -1,18 +1,26 @@
-# 0.3.52 is here!
+# 0.3.99 is here!
 
-- Made loading faster!!
+- Updated the physics to match the GD physics more
 
-- Fixed the loading UI's BG being slightly mis-aligned
+- Fixed some issues with some gamemodes
 
-- Optimized game
+- Added more blocks in the editor
 
-- Fixed some physics bugs
+- Fixed some issues with some blocks
 
-- Removed the static player model in the editor
+- Changed some things related to icons
 
-- Made the new best effect go faster
+- Added ALL of the editor categories! (keep in mind the newly added ones are work in progress)
 
-- Squashed some bugs >:]
+- Implemented icon kit (The color select is still work in progress, though)
+
+- Resized some things to better fit the real game
+
+- Removed soft-shutdown
+
+- Changed some textures
+
+- Squashed MANY bugs
 
 # NOTES
 
