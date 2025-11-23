@@ -20,6 +20,8 @@
 
 - Changed some textures
 
+- Fixed a bug that made new players unable to join
+
 - Squashed MANY bugs
 
 # NOTES
