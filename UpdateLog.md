@@ -1,4 +1,17 @@
-# 0.3.9 is here!
+### Really excited to announce the big update!
+# 0.4.0 is here!!
+
+- Added the Icon Kit!
+
+- Added 40+ new icons in total!
+
+- Optimized the game!
+
+- Added colors!
+
+- Added new thumbnails for the game!
+
+- Implemented MANY things!
 
 - Updated the physics to match the GD physics more
 
@@ -10,21 +23,21 @@
 
 - Changed some things related to icons
 
-- Added ALL of the editor categories! (keep in mind the newly added ones are work in progress)
+- Added editor categories!
 
-- Implemented icon kit (The color select is still work in progress, though)
+- Removed demonlist category from the game to fit all of the real categories temporarily
 
-- Resized some things to better fit the real game
+- Modified some textures to better fit the real game
 
 - Removed soft-shutdown
-
-- Changed some textures
-
-- Fixed a bug that made new players unable to join
 
 - Squashed MANY bugs
 
 # NOTES
 
-I'm currently adding the icon kit! I'm sure this update will be a really big update, so please be patient while i finish it.
-### Next update will be marked as v0.4.0 !
+I'm very glad to be able to update this beauty of a game to 0.4.0! It has been very fun to continuously do so, and it has helped my development skills.
+I'm also glad to say this is starting to look like a finished product, although it still needs MANY blocks.
+
+I've also recently found a group of people and helped me find some very useful values, so thanks to everyone who contributed!
+
+Report any bugs to me, and I'll be happy to fix them! Happy dashing!!
