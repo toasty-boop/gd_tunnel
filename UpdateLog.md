@@ -1,10 +1,14 @@
-# 0.4.01 is here!!
+# 0.4.02 is here!!
 
-- Added the rotate camera trigger
+- Changed how the in-game camera works
 
-- Modified how some parts of the game work
+- Modified some values
 
-- Squashed MANY bugs
+- Icons are no longer in beta
+
+- Escape now pauses the game
+
+- Squashed some bugss!!
 
 # NOTES
 
