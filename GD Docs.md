@@ -80,4 +80,4 @@ After that, it's as simple as just sending the result off to roblox studio.
 
 ## Textures
 
-I used Geometry dash's gamesheet images to obtain all of my textures. You may find them [here!](https://github.com/toasty-boop/gd_tunnel/blob/main/textures%20ingame.zip](https://github.com/toasty-boop/gd_tunnel/tree/main/ingame_textures)
+I used Geometry dash's gamesheet images to obtain all of my textures. You may find them [here!](https://github.com/toasty-boop/gd_tunnel/tree/main/ingame_textures)
