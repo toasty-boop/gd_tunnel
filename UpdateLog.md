@@ -12,4 +12,4 @@
 
 # NOTES
 
-This update is meant to serve as a way to better fix my ugly coding.. lol
+This update fixes most bugs that are usually about icons, and versus mode. It still needs playtesting, of course.
