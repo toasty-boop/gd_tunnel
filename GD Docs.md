@@ -37,17 +37,29 @@ end
 The base gravity I used for this project is exactly 216 studs.
 
 Cube gravity: base_gravity
+
+
 Ship gravity: base_gravity * 0.32
+
 Ball gravity: base_gravity * 0.6
+
 UFO gravity: base_gravity * 0.4
+
 Robot gravity: base_gravity * 0.9
+
 Spider gravity: base_gravity * 0.6
+
 Swing gravity: base_gravity * 0.4
 
+
 Cube jumppower: 44.63
+
 Ship jumppower: 112 (multiplied by dt)
+
 Ball jumppower: 11.65
+
 Ufo jumppower: 25.26
+
 Robot jumppower: 20.7522697796 (MIGHT BE INACURATE)
 
 
