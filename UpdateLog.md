@@ -1,14 +1,18 @@
-# 0.4.02 is here!!
+# 0.4.03 is here!!
 
-- Changed how the in-game camera works
+- Modified the GD physics to better resemble the real one
 
-- Modified some values
+- Changed the cube's terminal speed
 
-- Icons are no longer in beta
+- Improved global spike hitbox
 
-- Escape now pauses the game
+- Fixed the editor displaying objects stretched out
 
-- Squashed some bugss!!
+- Fixed datastores giving you an invalid icon kit set
+
+- Added more social media to front page
+
+- Squashed some bugss!!!
 
 # NOTES
 
