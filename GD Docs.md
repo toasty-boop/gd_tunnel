@@ -2,7 +2,7 @@
 
 This file is about things I learnt about GD while I was recreating it in ROBLOX, and might come in handy if you ever need it.
 
-### NOTE: The player in my game is precisely (2,2,0.03) in size.
+### NOTE: The player in my game is precisely (2,2,0.03) in size. This makes the "studs per sec" go double the speed.
 
 
 
