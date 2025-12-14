@@ -10,11 +10,15 @@ This file is about things I learnt about GD while I was recreating it in ROBLOX,
 
 ## Speed
 
-0.5x speed (Or 2nd speed portal in-game) = 16.7364016736 studs per sec (considering player size), or 8.3682008368 gd blocks per sec
-1x speed (Or 1st speed portal in-game) = 20.7522697796 studs per sec (considering player size), or 10.3761348898 gd blocks per sec
-2x speed (Or 3rd speed portal in-game) = 25.806451613 studs per sec (considering player size), or 12.9032258065 gd blocks per sec
-3x speed (Or 4th speed portal in-game) = 31.1890838206 studs per sec (considering player size), or 15.5945419103 gd blocks per sec
-4x speed (Or 5th speed portal in-game) = 38.3693045564 studs per sec (considering player size), or 19.1846522782 gd blocks per sec
+0.5x speed (Or 2nd speed portal in-game) = 16.7364016736 studs per sec (considering player size), or 8.3682008368 gd blocks per sec.
+
+1x speed (Or 1st speed portal in-game) = 20.7522697796 studs per sec (considering player size), or 10.3761348898 gd blocks per sec.
+
+2x speed (Or 3rd speed portal in-game) = 25.806451613 studs per sec (considering player size), or 12.9032258065 gd blocks per sec.
+
+3x speed (Or 4th speed portal in-game) = 31.1890838206 studs per sec (considering player size), or 15.5945419103 gd blocks per sec.
+
+4x speed (Or 5th speed portal in-game) = 38.3693045564 studs per sec (considering player size), or 19.1846522782 gd blocks per sec.
 
 ## Delta
 
