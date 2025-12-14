@@ -22,29 +22,34 @@ This file is about things I learnt about GD while I was recreating it in ROBLOX,
 
 ## Delta
 
-Delta was used in my roblox game to mantain a balance between lag. This is because my game's speed would vary with lag, otherwise——Which would be terrible.
-To obtain the delta, I used roblox's "Run Service".RenderStepped(dt) function.
+To obtain the delta, I used roblox's "Run Service".RenderStepped(dt) function for the entire game system.
 
 (EXAMPLE)
 dt = delta * timewarp
 		
-Although this is good enough, (ONLY) android slows the game down the more lag you have. I recreated this by capping the dt at 1/30, meaning more dt will not count.
+Although this is good enough, specifically mobile slows the game down the more lag you have. I recreated this by capping the dt at 1/30, meaning more dt will not count.
 
 if 1 / delta < 30 then
 	dt = 1 / 30
 end
 
-Variables:
+# Variables
+The base gravity I used for this project is exactly 216 studs.
 
-Cube:
-Gravity: 14.4 units per second, or 1.2 units per frame (with 12 FPS)
+Cube gravity: base_gravity
+Ship gravity: base_gravity * 0.32
+Ball gravity: base_gravity * 0.6
+UFO gravity: base_gravity * 0.4
+Robot gravity: base_gravity * 0.9
+Spider gravity: base_gravity * 0.6
+Swing gravity: base_gravity * 0.4
 
-Ship: 
+Cube jumppower: 44.63
+Ship jumppower: 112 (multiplied by dt)
+Ball jumppower: 11.65
+Ufo jumppower: 25.26
+Robot jumppower: 20.7522697796 (MIGHT BE INACURATE)
 
-Gravity: -69.8 units per second, or -5.8 units per frame (with 12 FPS)
-Jump Height: 112 units per second, or 9.33333333333 units per frame (with 12 FPS)
-Max Gravity Speed: -29 units per frame
-Max Jump Speed 36 units per frame
 
 # Downloading and loading.
 
