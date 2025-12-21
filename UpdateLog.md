@@ -1,19 +1,11 @@
-# 0.4.03 is here!!
+# 0.4.1 is here!!
 
 - Modified the GD physics to better resemble the real one
 
-- Changed the cube's terminal speed
+- Added daily chests
 
-- Improved global spike hitbox
+- Added 5 new achievements
 
-- Fixed the editor displaying objects stretched out
+- Changed how the pink orb works
 
-- Fixed datastores giving you an invalid icon kit set
-
-- Added more social media to front page
-
-- Squashed some bugss!!!
-
-# NOTES
-
-This update fixes most bugs that are usually about icons, and versus mode. It still needs playtesting, of course.
+Thank you for playing the WIP version of this game. It's really been helping me find bugs for the full version!
