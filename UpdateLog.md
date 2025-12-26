@@ -1,11 +1,19 @@
-# 0.4.1 is here!!
+# Thanks for 10K visits! 0.4.2 is here!!
 
-- Modified the GD physics to better resemble the real one
+- Added saws!
 
-- Added daily chests
+- Removed some z-fighting in-game
 
-- Added 5 new achievements
+- Made the game more efficient
 
-- Changed how the pink orb works
+- Fixed a bug where the levels would stop mid-way
 
-Thank you for playing the WIP version of this game. It's really been helping me find bugs for the full version!
+- Fixed Versus Mode
+
+- Fixed x-flip and y-flip globally
+
+- Fixed decoration spikes from looking like real spikes in-editor
+
+Thank you so much for 10K visits. I've never thought I would achieve such moment in *any* of my experiences, and i'm so grateful for it.
+
+Happy new year! <3
