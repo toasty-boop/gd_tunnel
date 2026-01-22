@@ -1,19 +1,9 @@
-# Thanks for 10K visits! 0.4.2 is here!!
+0.4.21 is here!!
 
-- Added saws!
+- Optimized the game by A LOT
 
-- Removed some z-fighting in-game
+- Made main levels download without servers
 
-- Made the game more efficient
+- Fixed bugs related to pads
 
-- Fixed a bug where the levels would stop mid-way
-
-- Fixed Versus Mode
-
-- Fixed x-flip and y-flip globally
-
-- Fixed decoration spikes from looking like real spikes in-editor
-
-Thank you so much for 10K visits. I've never thought I would achieve such moment in *any* of my experiences, and i'm so grateful for it.
-
-Happy new year! <3
+Hello! I'm back after a short break. I'm thinking of adding great things to this game this year :)
