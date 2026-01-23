@@ -6,4 +6,6 @@
 
 - Fixed bugs related to pads
 
+- Squashed many bugs!!
+
 Hello! I'm back after a short break. I'm thinking of adding great things to this game this year :)
