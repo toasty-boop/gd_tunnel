@@ -8,4 +8,8 @@
 
 - Squashed many bugs!!
 
+- Added 5 more badges
+
+- Slightly modified how the changelogs look ingame
+
 Hello! I'm back after a short break. I'm thinking of adding great things to this game this year :)
