@@ -12,4 +12,6 @@
 
 - Slightly modified how the changelogs look ingame
 
+- Removed rejoin button on outdated server popup
+
 Hello! I'm back after a short break. I'm thinking of adding great things to this game this year :)
