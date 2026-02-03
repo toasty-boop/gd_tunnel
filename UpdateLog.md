@@ -10,6 +10,8 @@
 
 - Fixed a bug where you could play multiple main-levels at once
 
+- Added a popup when obtaining the sealtastic badge!
+
 - Squashed some bugs!!!
 
 Hihi! I'm trying my best to add all update 1.7 (and below) features to be able to get hexagon force running smoothly and correctly. Thank you for your patience!
