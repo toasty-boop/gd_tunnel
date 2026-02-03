@@ -1,19 +1,15 @@
-0.4.21 is here!!
+# 0.4.22 is here!!
 
-- Optimized the game by A LOT
+- Improved slope physics
 
-- Made main levels download without servers
+- Added coins (WIP)
 
-- Fixed bugs related to pads
+- Fixed a bug where the delete button in online levels would take you to the editor page
 
-- Squashed many bugs!!
+- Fixed a bug where coins had a green background
 
-- Added 5 more badges
+- Fixed a bug where you could play multiple main-levels at once
 
-- Slightly modified how the changelogs look ingame
+- Squashed some bugs!!!
 
-- Removed rejoin button on outdated server popup
-
-- Outdated server popup will now only show up for new players in-server
-
-Hello! I'm back after a short break. I'm thinking of adding great things to this game this year :)
+Hihi! I'm trying my best to add all update 1.7 (and below) features to be able to get hexagon force running smoothly and correctly. Thank you for your patience!
